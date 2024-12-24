@@ -5,5 +5,5 @@
 ![Screenshot 2024-06-03 200405](https://github.com/Ashinsarkarlahiri/Budget-sales-analytics-project/blob/main/Screenshot%202024-12-24%20184218.png)
 ![Screenshot 2024-06-03 200405](https://github.com/Ashinsarkarlahiri/Budget-sales-analytics-project/blob/main/Screenshot%202024-12-24%20184232.png)
 ![Screenshot 2024-06-03 200405](https://github.com/Ashinsarkarlahiri/Budget-sales-analytics-project/blob/main/Screenshot%202024-12-24%20184248.png)
-![Screenshot 2024-06-03 200405]
+![Screenshot 2024-06-03 200405](https://github.com/Ashinsarkarlahiri/Budget-sales-analytics-project/blob/main/Screenshot%202024-12-24%20184303.png)
 ![Screenshot 2024-06-03 200405]
