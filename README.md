@@ -21,6 +21,7 @@ This Power BI dashboard provides a comprehensive view of key business metrics, i
 # Target Audience:
 This dashboard is intended for a wide range of stakeholders within the organization, including managers, analysts, executives, and other decision-makers who require access to timely and accurate financial data.
 
+### Overall Report & Dashboard glimpse:
 ![Screenshot 2024-06-03 200405](https://github.com/Ashinsarkarlahiri/Budget-sales-analytics-project/assets/153322941/d59355e7-edda-4c16-b80e-33c54b3b8a81)
 ![Screenshot 2024-06-03 200405](https://github.com/Ashinsarkarlahiri/Budget-sales-analytics-project/blob/main/Screenshot%202024-12-24%20184206.png)
 ![Screenshot 2024-06-03 200405](https://github.com/Ashinsarkarlahiri/Budget-sales-analytics-project/blob/main/Screenshot%202024-12-24%20184218.png)
