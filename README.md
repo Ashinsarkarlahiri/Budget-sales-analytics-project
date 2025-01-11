@@ -9,7 +9,7 @@
 
 # Project Title: Budget, Sales, and Analytics Dashboard
 # Project Description:
-This Power BI dashboard provides a comprehensive view of key business metrics, including budget, sales, and profitability. The dashboard offers a dynamic and interactive interface to explore various aspects of the business, such as:
+This Power BI dashboard provides a comprehensive view of key business metrics, including budget, sales, and profitability. The dashboard offers a dynamic and interactive interface to explore various aspects of a business, such as:
  * Budget Analysis: Visualizations showcase the budget allocation for different categories, providing a high-level understanding of resource allocation.
  * Sales Performance: Charts and tables analyze sales data, revealing trends, patterns, and key performance indicators.
  * Profitability Analysis: Visualizations highlight profit margins by product category, subcategory, and region, enabling the identification of profitable areas and areas for improvement.
